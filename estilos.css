@@ -1,37 +1,9 @@
 
-.pequeno{
-    height: 330px;
-    background-repeat: no-repeat;
-    background-size: cover;
-    border-style: none;
-    color: white;
-    padding-top: 210px;
-
-}
-
-.grande{
-    height: 430px;
-    background-repeat: no-repeat;
-    background-size: none;
-    border-style: none;
-    color: white;
-    padding-top: 310px;
-}
-
 .button11{
     border-radius: 20px;
    
 }
 
-.coracao {
-    float: right;
-    padding: 15px;
-    opacity: 70%;
-    background-color: rgb(141, 141, 141);
-    border-radius: 100px;
-    margin-top: -40px;
-    
-}
 
 .roda{
     background-color: rgba(84, 202, 84, 0.404);
@@ -63,4 +35,14 @@ h2{
 
 .checked {
   color: orange;
+}
+
+.texto{
+    text-align: center;
+    color: rgb(100, 99, 99);
+}
+.texto2{
+    text-align: center;
+    text-justify: center;
+
 }
